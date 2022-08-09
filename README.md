@@ -19,6 +19,8 @@ Apprentice Software Developer at Nordstrom
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_mongo.svg" alt="mongo db" width="50px" />  
   <!-- AWS -->
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_aws.svg" alt="AWS" width="50px" />
+    <!-- Gitlab -->
+    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_gitlab.svg" alt="Gitlab" width="50px" />
   <!--   REACT -->
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_reactjs.svg" alt="react js" width="50px" />  
   <!--   Angular -->
