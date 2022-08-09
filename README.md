@@ -11,7 +11,7 @@ Apprentice Software Developer at Nordstrom
 
 ### Databases, Cloud, Frameworks, Languages
 <span>
-  <!--   postgreSQL -->
+  <!-- postgreSQL -->
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_pgsql.svg" alt="pgsql" width="50px" />
   <!-- MySQL -->
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_mysql.svg" alt="mysql" width="50px" />   
@@ -43,6 +43,12 @@ Apprentice Software Developer at Nordstrom
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_maven.svg" alt="maven" width="50px" />
   <!-- gradle -->
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_gradle.svg" alt="gradle" width="50px" />
+    <!-- jasmine -->
+    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jasmine.svg" alt="Jasmine" width="50px" />
+        <!-- karma -->
+    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jasmine.svg" alt="Jasmine" width="50px" />
+        <!-- cypress -->
+    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_cypress.svg" alt="Cypress" width="50px" />
   
 </span>  
   
