@@ -46,7 +46,7 @@ Apprentice Software Developer at Nordstrom
     <!-- jasmine -->
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jasmine.svg" alt="Jasmine" width="50px" />
         <!-- karma -->
-    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jasmine.svg" alt="Jasmine" width="50px" />
+    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_karma.svg" alt="Karma" width="50px" />
         <!-- cypress -->
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_cypress.svg" alt="Cypress" width="50px" />
   
