@@ -2,7 +2,7 @@
 
 ### What I'm currently working on: 
 
-Apprentice Software Developer at Nordstrom
+Engineer II at Nordstrom working with React Webapps
 
 
 <!-- languages/tools I use images in a row-->
